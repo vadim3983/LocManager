@@ -1,0 +1,114 @@
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\bin\Debug\net7.0-windows\WF_graded.exe
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\bin\Debug\net7.0-windows\WF_graded.deps.json
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\bin\Debug\net7.0-windows\WF_graded.runtimeconfig.json
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\bin\Debug\net7.0-windows\WF_graded.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\bin\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.Form1.resources
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.AssemblyInfo.cs
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\refint\WF_graded.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\WF_graded.genruntimeconfig.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded\obj\Debug\net7.0-windows\ref\WF_graded.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\bin\Debug\net7.0-windows\WF_graded.exe
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\bin\Debug\net7.0-windows\WF_graded.deps.json
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\bin\Debug\net7.0-windows\WF_graded.runtimeconfig.json
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\bin\Debug\net7.0-windows\WF_graded.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\bin\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.Form1.resources
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.AssemblyInfo.cs
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\refint\WF_graded.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.genruntimeconfig.cache
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\ref\WF_graded.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\alex\Desktop\PiGE\WF\WF_graded - Copy\obj\Debug\net7.0-windows\WF_graded.csproj.CopyComplete
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\bin\Debug\net7.0-windows\WF_graded.exe
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\bin\Debug\net7.0-windows\WF_graded.deps.json
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\bin\Debug\net7.0-windows\WF_graded.runtimeconfig.json
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\bin\Debug\net7.0-windows\WF_graded.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\bin\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.csproj.AssemblyReference.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.Form1.resources
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.csproj.GenerateResource.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.AssemblyInfoInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.AssemblyInfo.cs
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.csproj.CoreCompileInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.csproj.CopyComplete
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\refint\WF_graded.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.genruntimeconfig.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\ref\WF_graded.dll
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.exe
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.deps.json
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.runtimeconfig.json
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.dll
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.AssemblyReference.cache
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.Form1.resources
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.GenerateResource.cache
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.AssemblyInfoInputs.cache
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.AssemblyInfo.cs
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.CoreCompileInputs.cache
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.CopyComplete
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.dll
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\refint\WF_graded.dll
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.genruntimeconfig.cache
+C:\Users\vvi05\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\ref\WF_graded.dll
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.exe
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.deps.json
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.runtimeconfig.json
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.dll
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.AssemblyReference.cache
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.Form1.resources
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.GenerateResource.cache
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.AssemblyInfoInputs.cache
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.AssemblyInfo.cs
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.CoreCompileInputs.cache
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.CopyComplete
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.dll
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\refint\WF_graded.dll
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\WF_graded.genruntimeconfig.cache
+C:\Users\alex\Source\Repos\vadim3983\WF_graded\obj\Debug\net7.0-windows\ref\WF_graded.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\bin\Debug\net7.0-windows\WF_graded.exe
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\bin\Debug\net7.0-windows\WF_graded.deps.json
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\bin\Debug\net7.0-windows\WF_graded.runtimeconfig.json
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\bin\Debug\net7.0-windows\WF_graded.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\bin\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.AssemblyReference.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.Form1.resources
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.GenerateResource.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.AssemblyInfoInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.AssemblyInfo.cs
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.CoreCompileInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.csproj.CopyComplete
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\refint\WF_graded.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.genruntimeconfig.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\ref\WF_graded.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\WF_graded\obj\Debug\net7.0-windows\WF_graded.Properties.Resources.resources
+C:\Users\vvi05\OneDrive\Рабочий стол\LocManager\obj\Debug\net7.0-windows\WF_graded.Properties.Resources.resources
